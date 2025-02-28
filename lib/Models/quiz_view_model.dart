@@ -53,7 +53,7 @@ class QuizViewModel extends ChangeNotifier {
         "options": ["...", "...", "...", "..."],
         "answer": <index>
       }. 
-      Do NOT include explanations or extra text.
+      Do NOT include explanations or extra text. and in language should be $language
       """;
 
     try {

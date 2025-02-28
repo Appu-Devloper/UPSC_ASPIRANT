@@ -1,0 +1,2 @@
+D:/Projects/upsc_aspirant/android/app/.cxx/Debug/1bj545b1/x86/CMakeFiles/edit_cache.dir
+D:/Projects/upsc_aspirant/android/app/.cxx/Debug/1bj545b1/x86/CMakeFiles/rebuild_cache.dir
